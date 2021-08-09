@@ -22,7 +22,6 @@
     },
     "suggest": {
         "doctrine/common": "Doctrine\\Common >=2.1 for annotation features",
-        "zendframework/zend-stdlib": "Zend\\Stdlib component"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
